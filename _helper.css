@@ -1,0 +1,20 @@
+	/*浮動右邊*/
+	.pull-right{
+		float: right !important;
+	}
+	/*浮動左邊*/
+	.pull-left{
+		float: left !important;
+	}
+	
+	/*黑底白字*/
+	.dark-bg{
+		background-color: #000;
+		color: #fff;
+	}
+	.dark-bg a{
+		color: #fff;
+	}
+	.dark-bg a:hover{
+		color: rgba(255,255,255,.6)
+	}

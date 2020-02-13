@@ -1,0 +1,17 @@
+	/* 增加陰影 */
+	.card {
+		box-shadow: 0 0 2px rgba(0,1,2, .2)
+	}
+	/* 增加內間距 */
+	.card-content {
+		padding: 15px;
+	}
+	/* 縮短標題的外間距 */
+	.card .title {
+		margin-top: 0;
+		margin-bottom: 5px;
+	}
+	/* 縮短標題和內文的外間距 */
+	.card .title + p {
+		margin-top: 0;
+	}
